@@ -1,5 +1,5 @@
 # Kotlin Substrate Client
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/NodleCode/substrate-client-kotlin/blob/master/LICENSE.txt)
 
 substrate-client-kotlin is client library to interact with a substrate-based chain.
 It uses the API available from the RPC endpoint only (no sidecar).
